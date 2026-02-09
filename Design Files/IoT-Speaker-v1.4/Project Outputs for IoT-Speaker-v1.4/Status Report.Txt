@@ -1,0 +1,10 @@
+Output: Pcad for PCB
+Type  : Pcad
+From  : Project [IoT-Speaker-v1.4.PrjPcb]
+   Generated File[IoT-Speaker-v1.4.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:27:47 PM On 8/6/2024
